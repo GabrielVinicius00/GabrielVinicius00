@@ -1,6 +1,6 @@
 ### Hi i'm Gabriel 👋
 
-<img align="right" alt="Gab-pic" height="200" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202202/1170750_D2oK6kBR.png">
+<img align="right: 50px" alt="Gab-pic" height="200" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202202/1170750_D2oK6kBR.png">
 
 - 🔭 I'm currently studying to work as a front-end (I'm still a student)
 - 🌱 I’m currently learning HTML5 - CSS3 - JavaScript - Linux
