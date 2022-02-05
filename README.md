@@ -1,5 +1,7 @@
 ### Hi i'm Gabriel 👋
 
+<img align="right" alt="Gab-pic" height="200" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202202/1170750_D2oK6kBR.png">
+
 - 🔭 I'm currently studying to work as a front-end (I'm still a student)
 - 🌱 I’m currently learning HTML5 - CSS3 - JavaScript - Linux
 - 👯 I’m looking to collaborate on small projects in python, looks like fun...
@@ -21,7 +23,6 @@
   <img align="center" alt="Gab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gab-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gab-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="right" alt="Gab-pic" height="200" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202202/1170750_D2oK6kBR.png">
 </div>
   
   ##
