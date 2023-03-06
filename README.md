@@ -1,10 +1,10 @@
 ### Hi, i'm Gabriel <img height="30px" src="https://user-images.githubusercontent.com/50364832/143615313-330ef73e-ee1c-4cfe-b71d-7462a00f16b4.gif" />
 
-- 🔭 I'm currently studying to work as a front-end (I'm still a student)
-- 🌱 I’m currently learning HTML5 - CSS3 - JavaScript - Linux
+- 🔭 I'm currently studying to work as a Back-end (I'm still a student)
+- 🌱 I’m currently learning Ruby - Java - JavaScript - Linux
 - 👯 I’m looking to collaborate on small projects in python, looks like fun...
 - 🤔 I’m looking for help with java
-- 💬 Ask me about python, html, linux...
+- 💬 Ask me about Python, JavaScript, Linux...
 - 📫 How to reach me: gabrielsilvaa1610@gmail.com
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: Linux is very cool BOOOOOOM!!!
